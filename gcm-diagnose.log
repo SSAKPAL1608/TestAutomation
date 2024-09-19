@@ -1,0 +1,214 @@
+﻿Diagnose log at 2024-09-18T15:51:26Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.0+d34930736e131ad80e5690e5634ced1808aff3e2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22631)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\rohan
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DEADLINE-PC
+SHELL=C:\Program Files\Git\usr\bin\bash.exe
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\rohan\OneDrive
+ChocolateyLastPathUpdate=133547280239715700
+EnableLog=INFO
+TMPDIR=C:\Users\rohan\AppData\Local\Temp
+SESSIONNAME=Console
+CONFIG_SITE=C:/Program Files/Git/etc/config.site
+LC_CTYPE=en_GB.UTF-8
+PROCESSOR_ARCHITECTURE=x86
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ORIGINAL_TEMP=C:/Users/rohan/AppData/Local/Temp
+MINGW_PREFIX=C:/Program Files/Git/mingw64
+ProgramFiles(x86)=C:\Program Files (x86)
+ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+TEMP=C:\Users\rohan\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\rohan\AppData\Local
+MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+TERM=xterm
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+MINGW_CHOST=x86_64-w64-mingw32
+TERM_PROGRAM_VERSION=3.7.1
+ORIGINAL_TMP=C:/Users/rohan/AppData/Local/Temp
+PROCESSOR_REVISION=3100
+SYSTEMROOT=C:\Windows
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=23
+NUMBER_OF_PROCESSORS=32
+PATH=C:\Users\rohan\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\rohan\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet;C:\Program Files\PuTTY;C:\Program Files\Docker\Docker\resources\bin;C:\Users\rohan\AppData\Local\Microsoft\WindowsApps;C:\Users\rohan\AppData\Local\GitHubDesktop\bin;C:\Users\rohan\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\rohan\AppData\Local\Programs\Ollama;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+SHLVL=1
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+HOSTNAME=deadline-pc
+PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+USERDOMAIN_ROAMINGPROFILE=DEADLINE-PC
+MSYSTEM_CHOST=x86_64-w64-mingw32
+WINDIR=C:\Windows
+asl.log=Destination=file
+PLINK_PROTOCOL=ssh
+INFOPATH=C:\Program Files\Git\mingw64\local\info;C:\Program Files\Git\mingw64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+MSYS=disable_pcon
+ACSvcPort=17532
+ChocolateyInstall=C:\ProgramData\chocolatey
+GIT_TRACE2_PARENT_SID=5b91fb18-9f9c-48bb-8cf2-b98646c68d03
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Program Files/Git/mingw64/lib
+RlsSvcPort=22112
+TMP=C:\Users\rohan\AppData\Local\Temp
+CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.3
+HOME=C:\Users\rohan
+COMSPEC=C:\Windows\system32\cmd.exe
+SSH_ASKPASS=C:/Program Files/Git/mingw64/bin/git-askpass.exe
+LOGONSERVER=\\DEADLINE-PC
+USERPROFILE=C:\Users\rohan
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+_=C:/Program Files/Git/mingw64/bin/git-credential-manager
+USERDOMAIN=DEADLINE-PC
+APPDATA=C:\Users\rohan\AppData\Roaming
+HOMEDRIVE=C:
+MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+OLDPWD=C:/Users/rohan/shreya/repo
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+CommonProgramW6432=C:\Program Files\Common Files
+PWD=C:/Users/rohan/shreya/repo/test_automation_project
+EXEPATH=C:\Program Files\Git
+USERNAME=rohan
+PROCESSOR_ARCHITEW6432=AMD64
+ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\rohan\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet;C:\Program Files\PuTTY;C:\Program Files\Docker\Docker\resources\bin;C:\Users\rohan\AppData\Local\Microsoft\WindowsApps;C:\Users\rohan\AppData\Local\GitHubDesktop\bin;C:\Users\rohan\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\rohan\AppData\Local\Programs\Ollama
+EFC_62212=1
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+ProgramW6432=C:\Program Files
+ACSetupSvcPort=23210
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Program Files/Git/mingw64/include
+OneDriveConsumer=C:\Users\rohan\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\rohan\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\rohan\AppData\Local\Temp\1f264e85802e59cfdb1fb9b6'... OK
+Reading from temporary file 'C:\Users\rohan\AppData\Local\Temp\1f264e85802e59cfdb1fb9b6'... OK
+Deleting temporary file 'C:\Users\rohan\AppData\Local\Temp\1f264e85802e59cfdb1fb9b6'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\rohan
+UserDataDirectoryPath: C:\Users\rohan\.gcm
+GetCurrentDirectory(): C:\Users\rohan\shreya\repo\test_automation_project
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:49539/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.45.1.windows.1'
+Locating current repository...Git repository at 'C:/Users/rohan/shreya/repo/test_automation_project/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/rohan/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/rohan/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/rohan/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/rohan/.gitconfig	filter.lfs.required=true
+file:C:/Users/rohan/.gitconfig	user.name=SSAKPAL1608
+file:C:/Users/rohan/.gitconfig	user.email=shreyasakpal1608@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/SSAKPAL1608/TestAutomation.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\rohan\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\rohan\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
