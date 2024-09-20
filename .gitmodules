@@ -1,0 +1,3 @@
+[submodule "calculator-app"]
+	path = calculator-app
+	url = https://github.com/SSAKPAL1608/calculator-app.git
