@@ -1,3 +1,6 @@
 [submodule "calculator-app"]
 	path = calculator-app
 	url = https://github.com/SSAKPAL1608/calculator-app.git
+[submodule "calculator-app-automation"]
+	path = calculator-app-automation
+	url = https://github.com/SSAKPAL1608/calculator-app-automation.git
