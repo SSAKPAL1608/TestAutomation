@@ -13,3 +13,6 @@
 [submodule "jenkins_x_teraform"]
 	path = jenkins_x_teraform
 	url = https://github.com/SSAKPAL1608/jenkins_x_teraform.git
+[submodule "jenkins_gke_test"]
+	path = jenkins_gke_test
+	url = https://github.com/SSAKPAL1608/jenkins_gke_test.git
