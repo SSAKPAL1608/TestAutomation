@@ -4,3 +4,6 @@
 [submodule "calculator-app-automation"]
 	path = calculator-app-automation
 	url = https://github.com/SSAKPAL1608/calculator-app-automation.git
+[submodule "google_secret_manager"]
+	path = google_secret_manager
+	url = https://github.com/SSAKPAL1608/google_secret_manager.git
