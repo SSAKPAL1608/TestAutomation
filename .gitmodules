@@ -7,3 +7,6 @@
 [submodule "google_secret_manager"]
 	path = google_secret_manager
 	url = https://github.com/SSAKPAL1608/google_secret_manager.git
+[submodule "Vault"]
+	path = Vault
+	url = https://github.com/SSAKPAL1608/Vault.git
