@@ -2,12 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Vault" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calculator-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calculator-app-automation" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/google_secret_manager" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jenkins_gke_test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jenkins_x_teraform" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react-test" vcs="Git" />
   </component>
 </project>
